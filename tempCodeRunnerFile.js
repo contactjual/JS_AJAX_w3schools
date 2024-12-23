@@ -1,0 +1,3 @@
+
+// function adding() {
+//     return i++
